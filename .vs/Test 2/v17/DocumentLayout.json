@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\models\\productdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|c:\\users\\hari balaji m\\documents\\tests\\test 2\\test 2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{EA77F9F6-173C-4B6E-AB97-491C997F0829}|Test 2\\Test 2.csproj|solutionrelative:test 2\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Test 2\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Test 2\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAACgAAAAAAAAAAAA5wAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T17:32:09.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\appsettings.json",
+              "RelativeDocumentMoniker": "Test 2\\appsettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\appsettings.json",
+              "RelativeToolTip": "Test 2\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T12:20:09.436Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Test 2\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Test 2\\Controllers\\AuthController.cs",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAywCkAAAAiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T12:11:30.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "Test 2\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Properties\\launchSettings.json",
+              "RelativeToolTip": "Test 2\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-12-29T11:22:34.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Program.cs",
+              "RelativeDocumentMoniker": "Test 2\\Program.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Program.cs",
+              "RelativeToolTip": "Test 2\\Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAcwC0AAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:59:08.648Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Models\\ProductDbContext.cs",
+              "RelativeDocumentMoniker": "Test 2\\Models\\ProductDbContext.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Models\\ProductDbContext.cs",
+              "RelativeToolTip": "Test 2\\Models\\ProductDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T08:03:50.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Test 2\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\Hari Balaji M\\Documents\\Tests\\Test 2\\Test 2\\Models\\Product.cs",
+              "RelativeToolTip": "Test 2\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAsAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-29T07:46:47.133Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
