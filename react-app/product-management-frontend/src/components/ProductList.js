@@ -32,7 +32,7 @@ const ProductList = () => {
     setLoading(true);
     const token = localStorage.getItem('token'); 
     axios
-      .get('http://localhost:5000/api/products', {
+      .get('http://localhost:5002/api/products', {
         headers: { Authorization: `Bearer ${token}` },
       })
       .then((response) => {
@@ -46,7 +46,7 @@ const ProductList = () => {
     
     // Fetch categories for the filter
     axios
-      .get('http://localhost:5000/api/products/categories', {
+      .get('http://localhost:5002/api/products/categories', {
         headers: { Authorization: `Bearer ${token}` },
       })
       .then((response) => {
@@ -88,7 +88,7 @@ const ProductList = () => {
   const handleDelete = (id) => {
     const token = localStorage.getItem('token'); 
     axios
-      .delete(`http://localhost:5000/api/products/${id}`, {
+      .delete(`http://localhost:5002/api/products/${id}`, {
         headers: { Authorization: `Bearer ${token}` },
       })
       .then(() => {

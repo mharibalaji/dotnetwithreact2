@@ -26,7 +26,7 @@ const AddEditProduct = () => {
       const token = localStorage.getItem('token'); 
       // Fetch the product data if an id exists in the URL
       axios
-        .get(`http://localhost:5000/api/products/${id}`, {
+        .get(`http://localhost:5002/api/products/${id}`, {
             headers: { Authorization: `Bearer ${token}` },
           })
         .then((response) => {
@@ -44,8 +44,8 @@ const AddEditProduct = () => {
     event.preventDefault();
     const method = id ? 'put' : 'post'; // Use PUT for editing, POST for creating
     const url = id
-      ? `http://localhost:5000/api/products/${id}`
-      : 'http://localhost:5000/api/products';
+      ? `http://localhost:5002/api/products/${id}`
+      : 'http://localhost:5002/api/products';
       const token = localStorage.getItem('token');
     axios[method](url, product, {
         headers: { Authorization: `Bearer ${token}` },
