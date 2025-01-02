@@ -52,6 +52,7 @@ The backend will be running at http://localhost:5002. <br />
 Change the database connection string in appsettings.json. <br />
 
 ## Migration
+Delete the Migrations folder
 Run following commands<br />
 dotnet ef migrations add InitialCreate<br />
 dotnet ef database update<br />
